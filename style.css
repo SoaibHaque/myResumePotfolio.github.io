@@ -43,7 +43,9 @@
     --z-tooltip: 10;
     --z-fixed: 100;
 }
-
+*{
+    user-select: none;
+}
 /*===== BASE =====*/
 *,
 ::before,
